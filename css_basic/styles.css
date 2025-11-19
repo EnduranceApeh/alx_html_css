@@ -4,6 +4,9 @@ body, main{
 body{
   flex-direction: column;
 }
+header{
+  padding-bottom: 150px;
+}
 main{
   flex-direction: row;
   flex: auto;
