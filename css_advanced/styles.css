@@ -134,3 +134,43 @@ h1{
   width: 190px;
   text-align: center;
 }
+
+/* Testimonial section styling */
+.testimonial-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 392px;
+  background-color: #C271FF;
+}
+.testimonial-author{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 943px;
+  gap: 50px;
+}
+.testimonial-section .profile-picture{
+  
+}
+.testimonial-user-info{
+  width: 730px;
+  color: #fff;
+}
+.testimonial-user-info blockquote{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 34px;
+}
+.testimonial-user-info h3{
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 34px;
+  margin-top: 30px;
+}
+.testimonial-user-info p{
+  font-size: 22px;
+  line-height: 34px;
+  font-style: italic;
+  font-weight: 400;
+}
