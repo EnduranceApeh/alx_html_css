@@ -9,7 +9,7 @@ The goal of this task was to take a pre-built HTML template of a website called 
 
 Here is a preview of the Smile School website I built using HTML and CSS:
 
-![Smile School Screenshot](/Macbook-Air.png)
+![Smile School Screenshot](./Macbook-Air.png)
 
 ---
 
