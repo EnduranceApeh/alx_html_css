@@ -5,6 +5,13 @@ This repository contains my solution to the **CSS Advanced** project as part of 
 The goal of this task was to take a pre-built HTML template of a website called **SmileSchool** and apply advanced CSS styling techniques to bring it to life.
 
 ---
+## 📸 Smile School Project Screenshot
+
+Here is a preview of the Smile School website I built using HTML and CSS:
+
+![Smile School Screenshot](css_advanced/screenshots/smileschool.png)
+
+---
 
 ## 🎯 Learning Objectives
 
@@ -39,5 +46,5 @@ The objective was to follow design requirements precisely while applying respons
 
 ---
 
-## 📂 Project Structure
+
 
