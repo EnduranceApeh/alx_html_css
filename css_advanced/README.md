@@ -52,7 +52,7 @@ https://github.com/EnduranceApeh/alx_html_css.git
 ## 👨‍💻 Author
 **Apeh Endurance**
 
-- GitHub: https://github.com/EnnduranceApeh
+- GitHub: https://github.com/EnduranceApeh
 - Email: apehenduranc2@gmail.com
 
 
