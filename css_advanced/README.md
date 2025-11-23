@@ -45,6 +45,16 @@ Key areas styled include:
 The objective was to follow design requirements precisely while applying responsive and accessible CSS practices.
 
 ---
+## 🔗 Repository Link
+https://github.com/EnduranceApeh/alx_html_css.git
+
+---
+## 👨‍💻 Author
+**Apeh Endurance**
+
+- GitHub: https://github.com/EnnduranceApeh
+- Email: apehenduranc2@gmail.com
+
 
 
 
